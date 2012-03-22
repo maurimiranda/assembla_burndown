@@ -34,7 +34,7 @@ function buildData() {
   ideal_step = total / end_date.diff(current_date, 'days');
   ideal_data = new Array([current_date.valueOf(), total]);
   real_data = new Array ([current_date.valueOf(), total]);
-  calculated_data = new Array();
+  estimated_data = new Array();
   real_value = total;
   ideal_value = total;
   
@@ -46,11 +46,12 @@ function buildData() {
         step = getEstimation($(data).find("completed-date:contains(" + current_date.format("YYYY-MM-DD") + ")").parent());
       real_value -= step;
       real_data.push([current_date.valueOf(), real_value]);
-      calculated_data.push([current_date.valueOf(), null]);
+      estimated_data.push([current_date.valueOf(), null]);
     } else {
+      step = Math.round((total - real_value) / current_date.diff(start_date, 'days'));
       real_value -= step;
       real_data.push([current_date.valueOf(), null]);
-      calculated_data.push([current_date.valueOf(), real_value]);
+      estimated_data.push([current_date.valueOf(), real_value]);
     }
     ideal_data.push([current_date.valueOf(), Math.round(ideal_value)]);
     ideal_value = ideal_value - ideal_step;
@@ -63,8 +64,8 @@ function buildData() {
   });
 
   chart.addSeries({
-    data: calculated_data,
-    name: "Calculated",
+    data: estimated_data,
+    name: "Estimated",
     dashStyle: "Dot"
   });
   

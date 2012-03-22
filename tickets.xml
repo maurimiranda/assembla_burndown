@@ -1,0 +1,2562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tickets type="array">
+<ticket>
+  <assigned-to-id>bQLtA0tP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">4</component-id>
+  <created-on type="datetime">2011-11-22T15:43:29-03:00</created-on>
+  <description>The sort and filter should work as follows:
+
+- if there are more then N results that match exactly the search results then all other results should be filtered out.  N should be a setting in dbsettings.  The results should be sorted alphabetically.
+- If there are less then N results that match exactly the search criteria. Then the nearby results should also be shown and the exact match results (if exist) should be shown first and then other results should be shown ordered by distance.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">10297553</id>
+  <importance type="integer">9</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bFBLQO7Pyr37dVeJe5cbLA,bQCdTMtP0r4yTEacwqjQWU,bQLtA0tP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1026</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>4</status>
+  <status-name>Test</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Need to sort (and filter) results of business search on best match </summary>
+  <updated-at type="datetime">2012-03-21T18:21:46-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Medium</estimate>
+  <total-estimate type="float">3.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQLtA0tP0r4yTEacwqjQWU</id><login>dlitvakb</login><login_name warning="deprecated">dlitvakb</login_name><name>David Litvak Bruno</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">feature</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">feature</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bFBLQO7Pyr37dVeJe5cbLA</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">4</component-id>
+  <created-on type="datetime">2011-12-27T16:15:38-03:00</created-on>
+  <description></description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">12014933</id>
+  <importance type="integer">23</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bFBLQO7Pyr37dVeJe5cbLA,bQ1FOOtP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1036</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>1</status>
+  <status-name>Accepted</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>For facebook need to handle different message types (link, picture, comment, ...)</summary>
+  <updated-at type="datetime">2012-03-21T10:27:23-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">None</estimate>
+  <total-estimate type="float">0.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bFBLQO7Pyr37dVeJe5cbLA</id><login>glenn.shapland</login><login_name warning="deprecated">glenn.shapland</login_name><name>Glenn Shapland</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">feature</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">feature</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bohdY6vfmr4yzXacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">4</component-id>
+  <created-on type="datetime">2012-01-09T20:43:05-03:00</created-on>
+  <description>Search for name and address and filter for existing sources.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">12578753</id>
+  <importance type="integer">5</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bFBLQO7Pyr37dVeJe5cbLA,bohdY6vfmr4yzXacwqjQWU</notification-list>
+  <number type="integer">1042</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>4</status>
+  <status-name>Test</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Create web source using bing search</summary>
+  <updated-at type="datetime">2012-03-21T17:57:40-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">None</estimate>
+  <total-estimate type="float">0.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bohdY6vfmr4yzXacwqjQWU</id><login>gchari@trustedid.com</login><login_name warning="deprecated">gchari@trustedid.com</login_name><name>Ganga Muppidi</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">feature</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">feature</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bohdY6vfmr4yzXacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">4</component-id>
+  <created-on type="datetime">2012-02-01T21:04:23-03:00</created-on>
+  <description>Re-assigning to Ganga.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">14019933</id>
+  <importance type="integer">11</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bFBLQO7Pyr37dVeJe5cbLA,bohdY6vfmr4yzXacwqjQWU</notification-list>
+  <number type="integer">1062</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>0</status>
+  <status-name>New</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Implement subscriptions </summary>
+  <updated-at type="datetime">2012-03-21T18:22:51-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">None</estimate>
+  <total-estimate type="float">0.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bohdY6vfmr4yzXacwqjQWU</id><login>gchari@trustedid.com</login><login_name warning="deprecated">gchari@trustedid.com</login_name><name>Ganga Muppidi</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bFBLQO7Pyr37dVeJe5cbLA</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-02-07T22:21:43-03:00</created-on>
+  <description>GET account/&lt;AID&gt;/business/&lt;BUSINESSID&gt;/posts/?pending=0
+
+text of posts is included but no POST_ID of the type that could be used in e.g.
+POST account/&lt;AID&gt;/location/&lt;BUSINESSID&gt;/post/&lt;POSTID&gt;?action_id=id&amp;action_params=params</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">14458183</id>
+  <importance type="integer">10</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>dt01ucJFSr362ReJe5cbLA,bFBLQO7Pyr37dVeJe5cbLA</notification-list>
+  <number type="integer">1067</number>
+  <priority type="integer">3</priority>
+  <reporter-id>dt01ucJFSr362ReJe5cbLA</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>4</status>
+  <status-name>Test</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>search posts does not return native post ids</summary>
+  <updated-at type="datetime">2012-03-20T18:12:40-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">None</estimate>
+  <total-estimate type="float">0.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bFBLQO7Pyr37dVeJe5cbLA</id><login>glenn.shapland</login><login_name warning="deprecated">glenn.shapland</login_name><name>Glenn Shapland</name></assigned-to>
+  <reporter><id>dt01ucJFSr362ReJe5cbLA</id><login>yossir</login><login_name warning="deprecated">yossir</login_name><name>yossir</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">task</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">task</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQ1FOOtP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">14</component-id>
+  <created-on type="datetime">2012-02-16T18:15:48-03:00</created-on>
+  <description>Implement this with backbone.js</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">15160903</id>
+  <importance type="integer">5</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bQ1FOOtP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1092</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bs6knIGGGr3yiWab7jnrAJ</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>4</status>
+  <status-name>Test</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Show corresponding post template according to post type</summary>
+  <updated-at type="datetime">2012-03-21T10:27:23-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">4.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQ1FOOtP0r4yTEacwqjQWU</id><login>lucas.s</login><login_name warning="deprecated">lucas.s</login_name><name>Lucas Sallovitz</name></assigned-to>
+  <reporter><id>bs6knIGGGr3yiWab7jnrAJ</id><login>hernan.colmeiro</login><login_name warning="deprecated">hernan.colmeiro</login_name><name>Hernan Rodr&#237;guez Colmeiro</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">feature</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">feature</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bFBLQO7Pyr37dVeJe5cbLA</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer"></component-id>
+  <created-on type="datetime">2012-02-22T13:33:35-03:00</created-on>
+  <description>looking at the facebook_src.py it seems that the API has comments implemented but the json array is empty for posts that do have comments.
+Example: http://www.facebook.com/photo.php?fbid=341724915859395&amp;set=a.140430322655523.18504.133088056723083&amp;type=1</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">15491813</id>
+  <importance type="integer">24</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bQ1FOOtP0r4yTEacwqjQWU,bFBLQO7Pyr37dVeJe5cbLA</notification-list>
+  <number type="integer">1123</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bQ1FOOtP0r4yTEacwqjQWU</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>1</status>
+  <status-name>Accepted</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Implement comments in smb-api</summary>
+  <updated-at type="datetime">2012-03-09T19:39:32-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">None</estimate>
+  <total-estimate type="float">0.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bFBLQO7Pyr37dVeJe5cbLA</id><login>glenn.shapland</login><login_name warning="deprecated">glenn.shapland</login_name><name>Glenn Shapland</name></assigned-to>
+  <reporter><id>bQ1FOOtP0r4yTEacwqjQWU</id><login>lucas.s</login><login_name warning="deprecated">lucas.s</login_name><name>Lucas Sallovitz</name></reporter>
+<custom-fields>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQLtA0tP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-02-23T11:32:16-03:00</created-on>
+  <description></description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">15550593</id>
+  <importance type="integer">14</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bQLtA0tP0r4yTEacwqjQWU,bFBLQO7Pyr37dVeJe5cbLA</notification-list>
+  <number type="integer">1129</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bQLtA0tP0r4yTEacwqjQWU</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>0</status>
+  <status-name>New</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Attendance Time missing on the API</summary>
+  <updated-at type="datetime">2012-03-19T13:37:35-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Large</estimate>
+  <total-estimate type="float">9.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQLtA0tP0r4yTEacwqjQWU</id><login>dlitvakb</login><login_name warning="deprecated">dlitvakb</login_name><name>David Litvak Bruno</name></assigned-to>
+  <reporter><id>bQLtA0tP0r4yTEacwqjQWU</id><login>dlitvakb</login><login_name warning="deprecated">dlitvakb</login_name><name>David Litvak Bruno</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">feature</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">feature</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQ9Cw6tP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-02-23T16:11:18-03:00</created-on>
+  <description>We need to strip all html markup from the text of posts.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">15576623</id>
+  <importance type="integer">11</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bFBLQO7Pyr37dVeJe5cbLA,bQCdTMtP0r4yTEacwqjQWU,bQ9Cw6tP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1132</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bFBLQO7Pyr37dVeJe5cbLA</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>4</status>
+  <status-name>Test</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Add stripping of html markup from posts text</summary>
+  <updated-at type="datetime">2012-03-20T10:43:04-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Medium</estimate>
+  <total-estimate type="float">3.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQ9Cw6tP0r4yTEacwqjQWU</id><login>kyheo</login><login_name warning="deprecated">kyheo</login_name><name>Martin Marrese</name></assigned-to>
+  <reporter><id>bFBLQO7Pyr37dVeJe5cbLA</id><login>glenn.shapland</login><login_name warning="deprecated">glenn.shapland</login_name><name>Glenn Shapland</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">task</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">task</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>diUBJYJFKr36UKeJe5cbCb</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-02-27T14:47:56-03:00</created-on>
+  <description>Right alerts are only calculated on adding a location - we need to do it automatically in batch or on login</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">15777883</id>
+  <importance type="integer">13</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb</notification-list>
+  <number type="integer">1138</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>0</status>
+  <status-name>New</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>need to figure out when to recalculate alerts</summary>
+  <updated-at type="datetime">2012-03-16T13:48:03-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">None</estimate>
+  <total-estimate type="float">0.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">task</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">task</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQ9Cw6tP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-02-27T18:32:09-03:00</created-on>
+  <description></description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">15793473</id>
+  <importance type="integer">9</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bFBLQO7Pyr37dVeJe5cbLA,bQCdTMtP0r4yTEacwqjQWU,bQ9Cw6tP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1140</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>4</status>
+  <status-name>Test</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Incorrect URL alert - when comparing URL www.domain.com should be equivalent domain.com</summary>
+  <updated-at type="datetime">2012-03-19T16:47:22-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQ9Cw6tP0r4yTEacwqjQWU</id><login>kyheo</login><login_name warning="deprecated">kyheo</login_name><name>Martin Marrese</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">task</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">task</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>diUBJYJFKr36UKeJe5cbCb</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-02-27T18:33:44-03:00</created-on>
+  <description>For example Starbucks and Starbucks Coffee should be the same, Tampas and Tampas Restuarant, and so on.....
+
+</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">15793723</id>
+  <importance type="integer">12</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb</notification-list>
+  <number type="integer">1141</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>0</status>
+  <status-name>New</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Need to create a set of common ignore words for name comparison</summary>
+  <updated-at type="datetime">2012-03-16T13:48:03-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">None</estimate>
+  <total-estimate type="float">0.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">task</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">task</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQLtA0tP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-02-27T19:39:42-03:00</created-on>
+  <description></description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">15798313</id>
+  <importance type="integer">5</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bFBLQO7Pyr37dVeJe5cbLA,bQCdTMtP0r4yTEacwqjQWU,bQ9Cw6tP0r4yTEacwqjQWU,bQLtA0tP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1143</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>1</status>
+  <status-name>Accepted</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Implement new listing (instance) alerts for location and competitor</summary>
+  <updated-at type="datetime">2012-03-22T10:51:24-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Medium</estimate>
+  <total-estimate type="float">3.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQLtA0tP0r4yTEacwqjQWU</id><login>dlitvakb</login><login_name warning="deprecated">dlitvakb</login_name><name>David Litvak Bruno</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">feature</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">feature</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bFBLQO7Pyr37dVeJe5cbLA</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-02-27T19:45:27-03:00</created-on>
+  <description>Implement alert actions for each alert type - See Alert Table in https://www.assembla.com/spaces/safetobeme/wiki/SMB_API_Specification</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">15798583</id>
+  <importance type="integer">9</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bFBLQO7Pyr37dVeJe5cbLA</notification-list>
+  <number type="integer">1144</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>4</status>
+  <status-name>Test</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Implement alert actions</summary>
+  <updated-at type="datetime">2012-03-20T17:14:10-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">None</estimate>
+  <total-estimate type="float">0.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bFBLQO7Pyr37dVeJe5cbLA</id><login>glenn.shapland</login><login_name warning="deprecated">glenn.shapland</login_name><name>Glenn Shapland</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">feature</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">feature</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bohdY6vfmr4yzXacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">18</component-id>
+  <created-on type="datetime">2012-02-27T19:47:27-03:00</created-on>
+  <description></description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">15798743</id>
+  <importance type="integer">22</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bQCdTMtP0r4yTEacwqjQWU,bohdY6vfmr4yzXacwqjQWU</notification-list>
+  <number type="integer">1148</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>1</status>
+  <status-name>Accepted</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Implement Account Settings</summary>
+  <updated-at type="datetime">2012-03-19T06:57:51-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">None</estimate>
+  <total-estimate type="float">0.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bohdY6vfmr4yzXacwqjQWU</id><login>gchari@trustedid.com</login><login_name warning="deprecated">gchari@trustedid.com</login_name><name>Ganga Muppidi</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">feature</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">feature</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bFBLQO7Pyr37dVeJe5cbLA</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">3</component-id>
+  <created-on type="datetime">2012-02-29T22:49:32-03:00</created-on>
+  <description>The detailed description is in the following outline:  https://www.assembla.com/spaces/safetobeme/wiki/SMB_Post_Collection_Job_Framework</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">15954743</id>
+  <importance type="integer">25</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bQCdTMtP0r4yTEacwqjQWU,bQLtA0tP0r4yTEacwqjQWU,bFBLQO7Pyr37dVeJe5cbLA</notification-list>
+  <number type="integer">1165</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>1</status>
+  <status-name>Accepted</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Convert current post collection into a job framework</summary>
+  <updated-at type="datetime">2012-03-21T18:21:46-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Large</estimate>
+  <total-estimate type="float">28.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bFBLQO7Pyr37dVeJe5cbLA</id><login>glenn.shapland</login><login_name warning="deprecated">glenn.shapland</login_name><name>Glenn Shapland</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">task</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">task</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQ9Cw6tP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-01T17:08:31-03:00</created-on>
+  <description>We are getting errors when trying to update yelp instances.
+
+Mar  1 12:04:11 2012-03-01 12: 04:11,908 - safetobeme - 26091 - WARNING [127.0.0.1 ALL DEV 26091] - HttpSource error: {&quot;error&quot;:{&quot;text&quot;:&quot;One or more parameters are invalid in request&quot;,&quot;id&quot;:&quot;INVALID_PARAMETER&quot;,&quot;field&quot;:&quot;oauth_token&quot;}}
+Mar  1 12:04:11 localhost.localdomain &#65279;&lt;12&gt;2012-03-01 12:04:11,909 - safetobeme - 26091 - WARNING [127.0.0.1 ALL DEV 26091] - source [yelp] update failed: HttpSource request error: {&quot;error&quot;:{&quot;text&quot;:&quot;One or more parameters are invalid in request&quot;,&quot;id&quot;:&quot;INVALID_PARAMETER&quot;,&quot;field&quot;:&quot;oauth_token&quot;}} - Traceback (most recent call last):#012  File &quot;/home/glenn/workspace/safetobeme/src/dataaccess/sources/manager.py&quot;, line 249, in update_monitored#012    source.update(mitem['instance'], mitem['credentials'])#012  File &quot;/home/glenn/workspace/safetobeme/src/dataaccess/sources/yelp_src.py&quot;, line 184, in update#012    self.get_business_details(instance)#012  File &quot;/home/glenn/workspace/safetobeme/src/dataaccess/sources/yelp_src.py&quot;, line 124, in get_business_details#012    results = self.get_json_content(_business_url + instance['native_id'], params)#012  File &quot;/home/glenn/workspace/safetobeme/src/dataaccess/sources/source.py&quot;, line 69, in get_json_content#012    return json.loads(self.get_content(url, params=params, credentials=credentials, usecache=usecache))#012  File &quot;/home/glenn/workspace/safetobeme/src/dataaccess/sources/source.py&quot;, line 116, in get_content#012    raise Exception('HttpSource request error: ' + err)#012Exception: HttpSource request error: {&quot;error&quot;:{&quot;text&quot;:&quot;One or more parameters are invalid in request&quot;,&quot;id&quot;:&quot;INVALID_PARAMETER&quot;,&quot;field&quot;:&quot;oauth_token&quot;}}
+</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">16019283</id>
+  <importance type="integer">8</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bFBLQO7Pyr37dVeJe5cbLA,bQCdTMtP0r4yTEacwqjQWU,bQ9Cw6tP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1175</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bFBLQO7Pyr37dVeJe5cbLA</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>1</status>
+  <status-name>Accepted</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Need to fix authentication error on yelp update</summary>
+  <updated-at type="datetime">2012-03-22T10:40:09-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQ9Cw6tP0r4yTEacwqjQWU</id><login>kyheo</login><login_name warning="deprecated">kyheo</login_name><name>Martin Marrese</name></assigned-to>
+  <reporter><id>bFBLQO7Pyr37dVeJe5cbLA</id><login>glenn.shapland</login><login_name warning="deprecated">glenn.shapland</login_name><name>Glenn Shapland</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">task</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">task</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQ1FOOtP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">8</component-id>
+  <created-on type="datetime">2012-03-12T21:42:24-03:00</created-on>
+  <description>When the API returns an error we need to some sort of indicator to show the user that there was an error... currently the error is swallowed and its not clear why the data is not showing correctly.....</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">16707653</id>
+  <importance type="integer">7</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bQCdTMtP0r4yTEacwqjQWU,bQ1FOOtP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1221</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>4</status>
+  <status-name>Test</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Implement error notification UI</summary>
+  <updated-at type="datetime">2012-03-20T13:52:42-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Medium</estimate>
+  <total-estimate type="float">3.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQ1FOOtP0r4yTEacwqjQWU</id><login>lucas.s</login><login_name warning="deprecated">lucas.s</login_name><name>Lucas Sallovitz</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">feature</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">feature</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQCdTMtP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer"></component-id>
+  <created-on type="datetime">2012-03-13T17:45:46-03:00</created-on>
+  <description>Using coupa zip:94301 as the search criteria we combine coupa cafe and coupa casas which is probably an issue in itself but looks like there are multiple issues here so I'm just putting this ticket to track them:
+
+- competitive seems to be only showing stuff once for each source
+- the alerts don't show up on instances
+
+there are probably others...</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">16775683</id>
+  <importance type="integer">24</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bQCdTMtP0r4yTEacwqjQWU,bs6knIGGGr3yiWab7jnrAJ</notification-list>
+  <number type="integer">1230</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>0</status>
+  <status-name>New</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Need to handle case with multiple instances on the same source</summary>
+  <updated-at type="datetime">2012-03-19T16:54:33-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">None</estimate>
+  <total-estimate type="float">0.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQCdTMtP0r4yTEacwqjQWU</id><login>mauricio@deviget.com</login><login_name warning="deprecated">mauricio@deviget.com</login_name><name>Mauricio Miranda</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">task</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">task</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bohdY6vfmr4yzXacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-13T22:54:07-03:00</created-on>
+  <description>Searching for Coupa with zipcode=94301 returns facebook fan page if you search with city/state (Palo Alto/CA) you don't get any facebook results.  It looks like zip gets translated to coordinates but city/state doesn't.
+
+</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">16789223</id>
+  <importance type="integer">21</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bFBLQO7Pyr37dVeJe5cbLA,bohdY6vfmr4yzXacwqjQWU</notification-list>
+  <number type="integer">1232</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>0</status>
+  <status-name>New</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Search results depend on whether you specify city/state or zip</summary>
+  <updated-at type="datetime">2012-03-21T20:27:16-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">None</estimate>
+  <total-estimate type="float">0.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bohdY6vfmr4yzXacwqjQWU</id><login>gchari@trustedid.com</login><login_name warning="deprecated">gchari@trustedid.com</login_name><name>Ganga Muppidi</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQ1FOOtP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">14</component-id>
+  <created-on type="datetime">2012-03-13T23:01:22-03:00</created-on>
+  <description>We need to highlight the word being filtered on in the post itself</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">16789593</id>
+  <importance type="integer">6</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bQCdTMtP0r4yTEacwqjQWU,bQ1FOOtP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1233</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>4</status>
+  <status-name>Test</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Implement highlighting of keyword in post when filter on tag cloud</summary>
+  <updated-at type="datetime">2012-03-19T23:44:37-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQ1FOOtP0r4yTEacwqjQWU</id><login>lucas.s</login><login_name warning="deprecated">lucas.s</login_name><name>Lucas Sallovitz</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">feature</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">feature</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bohdY6vfmr4yzXacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">8</component-id>
+  <created-on type="datetime">2012-03-13T23:05:56-03:00</created-on>
+  <description></description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">16789743</id>
+  <importance type="integer">21</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bohdY6vfmr4yzXacwqjQWU</notification-list>
+  <number type="integer">1234</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>1</status>
+  <status-name>Accepted</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Implement Registration Flow</summary>
+  <updated-at type="datetime">2012-03-21T18:21:42-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bohdY6vfmr4yzXacwqjQWU</id><login>gchari@trustedid.com</login><login_name warning="deprecated">gchari@trustedid.com</login_name><name>Ganga Muppidi</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">feature</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">feature</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bFBLQO7Pyr37dVeJe5cbLA</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-14T22:32:48-03:00</created-on>
+  <description>in manager set it to only have our test source
+set the lat/long in sample_src to the north pole 
+then visit: http://local.staging.reppler.com:8000/business/search/?zipcode=99999
+
+
+Traceback (most recent call last):
+  File &quot;C:\Users\Yossi\Desktop\safetobeme\src\smb\smb-api\views.py&quot;, line 608, in business_search
+    groups = normalize_instances_view(result, details=details)
+  File &quot;C:\Users\Yossi\Desktop\safetobeme\src\dataaccess\sources\manager.py&quot;, line 134, in normalize_instances_view
+    gp.get_location_from_native(i)
+  File &quot;C:\Users\Yossi\Desktop\safetobeme\src\dataaccess\sources\google_places.py&quot;, line 152, in get_location_from_native
+    self.get_location_from_lat_long(instance)
+  File &quot;C:\Users\Yossi\Desktop\safetobeme\src\dataaccess\sources\google_places.py&quot;, line 203, in get_location_from_lat_long
+    results = self.get_results(_base_geo_url, params, 'location')
+  File &quot;C:\Users\Yossi\Desktop\safetobeme\src\dataaccess\sources\google_places.py&quot;, line 50, in get_results
+    raise Exception('Google %s lookup error: %s  -  %s' % (type, str(results['status']), str(params)))
+Exception: Google location lookup error: ZERO_RESULTS  -  {'latlng': '89.9,0.0', 'sensor': 'false'}</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">16917613</id>
+  <importance type="integer">19</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>dt01ucJFSr362ReJe5cbLA,bFBLQO7Pyr37dVeJe5cbLA</notification-list>
+  <number type="integer">1241</number>
+  <priority type="integer">3</priority>
+  <reporter-id>dt01ucJFSr362ReJe5cbLA</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>0</status>
+  <status-name>New</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>if google_places gets passed a lat/long where it can't find anything, it explodes</summary>
+  <updated-at type="datetime">2012-03-14T22:32:48-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bFBLQO7Pyr37dVeJe5cbLA</id><login>glenn.shapland</login><login_name warning="deprecated">glenn.shapland</login_name><name>Glenn Shapland</name></assigned-to>
+  <reporter><id>dt01ucJFSr362ReJe5cbLA</id><login>yossir</login><login_name warning="deprecated">yossir</login_name><name>yossir</name></reporter>
+<custom-fields>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQCdTMtP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-15T21:58:43-03:00</created-on>
+  <description></description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">16993203</id>
+  <importance type="integer">8</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bQCdTMtP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1244</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>4</status>
+  <status-name>Test</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Have analysis/activity return monthly data</summary>
+  <updated-at type="datetime">2012-03-16T20:45:02-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQCdTMtP0r4yTEacwqjQWU</id><login>mauricio@deviget.com</login><login_name warning="deprecated">mauricio@deviget.com</login_name><name>Mauricio Miranda</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">task</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">task</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQ1FOOtP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">17</component-id>
+  <created-on type="datetime">2012-03-16T13:26:54-03:00</created-on>
+  <description></description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17036563</id>
+  <importance type="integer">10</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bQCdTMtP0r4yTEacwqjQWU,bQ1FOOtP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1246</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>4</status>
+  <status-name>Test</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Need to display source image in the alert for recommended sources</summary>
+  <updated-at type="datetime">2012-03-20T10:54:22-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Medium</estimate>
+  <total-estimate type="float">3.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQ1FOOtP0r4yTEacwqjQWU</id><login>lucas.s</login><login_name warning="deprecated">lucas.s</login_name><name>Lucas Sallovitz</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">bug</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">bug</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bs6knIGGGr3yiWab7jnrAJ</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer"></component-id>
+  <created-on type="datetime">2012-03-16T13:31:23-03:00</created-on>
+  <description>Currently we use the default connections of Facebook and Twitter to find instances but we need to get agreement with PM if that's the correct way to do this and handle the case when we hit a limit on number of API calls per default connection (may be have a list of connections) and add various dependencies to alerts and posts actions on having credentials.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17036843</id>
+  <importance type="integer">22</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bQCdTMtP0r4yTEacwqjQWU,bs6knIGGGr3yiWab7jnrAJ</notification-list>
+  <number type="integer">1247</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>0</status>
+  <status-name>New</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Handle facebook and twitter</summary>
+  <updated-at type="datetime">2012-03-22T13:03:00-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">None</estimate>
+  <total-estimate type="float">0.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bs6knIGGGr3yiWab7jnrAJ</id><login>hernan.colmeiro</login><login_name warning="deprecated">hernan.colmeiro</login_name><name>Hernan Rodr&#237;guez Colmeiro</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">feature</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">feature</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQ9Cw6tP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-16T13:54:52-03:00</created-on>
+  <description>This need to calculate the trend on a monthly basis by walking through reviews.  For Facebook if we have the credentials we will need to use the insights API. Not sure what to do for twitter and foursquare.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17037983</id>
+  <importance type="integer">15</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bQCdTMtP0r4yTEacwqjQWU,bQLtA0tP0r4yTEacwqjQWU,bQ9Cw6tP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1251</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>1</status>
+  <status-name>Accepted</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Calculate analysis/trending historic data for competitive graph</summary>
+  <updated-at type="datetime">2012-03-21T22:41:29-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Large</estimate>
+  <total-estimate type="float">36.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQ9Cw6tP0r4yTEacwqjQWU</id><login>kyheo</login><login_name warning="deprecated">kyheo</login_name><name>Martin Marrese</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">task</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">task</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bFBLQO7Pyr37dVeJe5cbLA</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-16T16:50:02-03:00</created-on>
+  <description></description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17053283</id>
+  <importance type="integer">18</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bs6knIGGGr3yiWab7jnrAJ,bFBLQO7Pyr37dVeJe5cbLA</notification-list>
+  <number type="integer">1253</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bs6knIGGGr3yiWab7jnrAJ</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>0</status>
+  <status-name>New</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>After posting credentials, missing_credentials alerts remain</summary>
+  <updated-at type="datetime">2012-03-21T13:00:27-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bFBLQO7Pyr37dVeJe5cbLA</id><login>glenn.shapland</login><login_name warning="deprecated">glenn.shapland</login_name><name>Glenn Shapland</name></assigned-to>
+  <reporter><id>bs6knIGGGr3yiWab7jnrAJ</id><login>hernan.colmeiro</login><login_name warning="deprecated">hernan.colmeiro</login_name><name>Hernan Rodr&#237;guez Colmeiro</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">bug</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">bug</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQLtA0tP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer"></component-id>
+  <created-on type="datetime">2012-03-16T18:00:27-03:00</created-on>
+  <description>We need to add a sort order to the sources structures a number from 1 to N - it should follow the following precedence for now
+
+1.  Yelp
+2.  Googleplaces
+3.  CityGrid
+4.  Facebook
+5.  Twitter
+6.  Yahoo Local
+7.  Foursquare
+8.  Web
+
+Where ever we show sources we should order them based on this precedence.  This should be done through the backend APIs. 
+On my listings page the listing should follow source order. 
+/account/id/business/id/instances - needs to follow this order
+Recommended listings should show all alerts where ignored=False in sort order followed by all alerts that follow ignored=True in sort order.
+/account/id/location/id/alerts - needs to follow this order for missing listing alerts.
+On the competitors page the order of source types.  /account/id/location/id/competitivematrix  needs to be fixed.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17056793</id>
+  <importance type="integer">6</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bQCdTMtP0r4yTEacwqjQWU,bQ9Cw6tP0r4yTEacwqjQWU,bQ1FOOtP0r4yTEacwqjQWU,bQLtA0tP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1255</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>1</status>
+  <status-name>Accepted</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Add sorting order to sources and display sources in correct order through out the ui</summary>
+  <updated-at type="datetime">2012-03-22T10:51:21-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQLtA0tP0r4yTEacwqjQWU</id><login>dlitvakb</login><login_name warning="deprecated">dlitvakb</login_name><name>David Litvak Bruno</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">task</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">task</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bFBLQO7Pyr37dVeJe5cbLA</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-16T19:41:16-03:00</created-on>
+  <description>when doing an api call for account//business//instances?nocache=true we should be rescanning the instances at the sources and regenerating instance alerts.  It seems to do an attempt but I'm getting the following exceptions:
+
+Traceback (most recent call last):
+  File &quot;C:\Users\Vlad\Desktop\safetobemehg2\src\dataaccess\sources\manager.py&quot;, line 211, in search
+    for i in s.search(identity, credentials):
+  File &quot;C:\Users\Vlad\Desktop\safetobemehg2\src\dataaccess\sources\yahoo.py&quot;, line 43, in search
+    result = results['ResultSet']['Result']
+KeyError: 'Result'
+
+  File &quot;C:\Users\Vlad\Desktop\safetobemehg2\src\dataaccess\sources\manager.py&quot;, line 256, in update_monitored
+    source.update(mitem['instance'], mitem['credentials'])
+  File &quot;C:\Users\Vlad\Desktop\safetobemehg2\src\dataaccess\sources\yelp_src.py&quot;, line 207, in update
+    self.get_business_details(instance, credentials)
+  File &quot;C:\Users\Vlad\Desktop\safetobemehg2\src\dataaccess\sources\yelp_src.py&quot;, line 145, in get_business_details
+    results = self.get_json_content(_business_url + instance['native_id'], params)
+  File &quot;C:\Users\Vlad\Desktop\safetobemehg2\src\dataaccess\sources\source.py&quot;, line 97, in get_json_content
+    return json.loads(self.get_content(url, params=params, credentials=credentials, usecache=usecache))
+  File &quot;C:\Users\Vlad\Desktop\safetobemehg2\src\dataaccess\sources\source.py&quot;, line 144, in get_content
+    raise Exception('HttpSource request error: ' + err)
+Exception: HttpSource request error: {&quot;error&quot;:{&quot;text&quot;:&quot;One or more parameters are invalid in request&quot;,&quot;id&quot;:&quot;INVALID_PARAMETER&quot;,&quot;field&quot;:&quot;oauth_token&quot;}}</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17059973</id>
+  <importance type="integer">17</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bFBLQO7Pyr37dVeJe5cbLA</notification-list>
+  <number type="integer">1256</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>0</status>
+  <status-name>New</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Rescan on my listings is not working properly on backend</summary>
+  <updated-at type="datetime">2012-03-16T20:32:54-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bFBLQO7Pyr37dVeJe5cbLA</id><login>glenn.shapland</login><login_name warning="deprecated">glenn.shapland</login_name><name>Glenn Shapland</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">bug</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">bug</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQLtA0tP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-16T19:49:09-03:00</created-on>
+  <description>Having the alerts in every post creates json that is really big.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17060273</id>
+  <importance type="integer">4</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bFBLQO7Pyr37dVeJe5cbLA,bQCdTMtP0r4yTEacwqjQWU,bQ9Cw6tP0r4yTEacwqjQWU,bQLtA0tP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1257</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bFBLQO7Pyr37dVeJe5cbLA</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>1</status>
+  <status-name>Accepted</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Need to change alerts in precondition to IDs (too big)</summary>
+  <updated-at type="datetime">2012-03-22T11:00:11-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Medium</estimate>
+  <total-estimate type="float">12.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQLtA0tP0r4yTEacwqjQWU</id><login>dlitvakb</login><login_name warning="deprecated">dlitvakb</login_name><name>David Litvak Bruno</name></assigned-to>
+  <reporter><id>bFBLQO7Pyr37dVeJe5cbLA</id><login>glenn.shapland</login><login_name warning="deprecated">glenn.shapland</login_name><name>Glenn Shapland</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">feature</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">feature</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bs6knIGGGr3yiWab7jnrAJ</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">16</component-id>
+  <created-on type="datetime">2012-03-16T20:38:29-03:00</created-on>
+  <description>Splitting #1162 in two issues as it was a task too big.
+
+Implementing this will be more complicated than facebook connect as redirects and backend coding is necessary for this.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17061803</id>
+  <importance type="integer">3</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bs6knIGGGr3yiWab7jnrAJ,bQCdTMtP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1258</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bs6knIGGGr3yiWab7jnrAJ</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>4</status>
+  <status-name>Test</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Implement twitter connect button in my competitors</summary>
+  <updated-at type="datetime">2012-03-21T18:24:03-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Large</estimate>
+  <total-estimate type="float">9.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bs6knIGGGr3yiWab7jnrAJ</id><login>hernan.colmeiro</login><login_name warning="deprecated">hernan.colmeiro</login_name><name>Hernan Rodr&#237;guez Colmeiro</name></assigned-to>
+  <reporter><id>bs6knIGGGr3yiWab7jnrAJ</id><login>hernan.colmeiro</login><login_name warning="deprecated">hernan.colmeiro</login_name><name>Hernan Rodr&#237;guez Colmeiro</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">bug</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">bug</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bFBLQO7Pyr37dVeJe5cbLA</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-16T20:43:51-03:00</created-on>
+  <description></description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17061943</id>
+  <importance type="integer">15</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bFBLQO7Pyr37dVeJe5cbLA</notification-list>
+  <number type="integer">1259</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>0</status>
+  <status-name>New</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Getting incorrect dependencies on post actions - e.g. listing info mismatch </summary>
+  <updated-at type="datetime">2012-03-16T20:43:51-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bFBLQO7Pyr37dVeJe5cbLA</id><login>glenn.shapland</login><login_name warning="deprecated">glenn.shapland</login_name><name>Glenn Shapland</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">bug</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">bug</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bs6knIGGGr3yiWab7jnrAJ</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">8</component-id>
+  <created-on type="datetime">2012-03-16T21:36:24-03:00</created-on>
+  <description>If nothing is provided, the screen show empty results. If this is his first add, the user won't be able to add locations from then on.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17063373</id>
+  <importance type="integer">17</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bohdY6vfmr4yzXacwqjQWU,bQ9Cw6tP0r4yTEacwqjQWU,diUBJYJFKr36UKeJe5cbCb,bQCdTMtP0r4yTEacwqjQWU,bs6knIGGGr3yiWab7jnrAJ</notification-list>
+  <number type="integer">1260</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bohdY6vfmr4yzXacwqjQWU</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>1</status>
+  <status-name>Accepted</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Add validation to add location screen</summary>
+  <updated-at type="datetime">2012-03-20T13:37:44-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Medium</estimate>
+  <total-estimate type="float">3.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bs6knIGGGr3yiWab7jnrAJ</id><login>hernan.colmeiro</login><login_name warning="deprecated">hernan.colmeiro</login_name><name>Hernan Rodr&#237;guez Colmeiro</name></assigned-to>
+  <reporter><id>bohdY6vfmr4yzXacwqjQWU</id><login>gchari@trustedid.com</login><login_name warning="deprecated">gchari@trustedid.com</login_name><name>Ganga Muppidi</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">bug</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">bug</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQ1FOOtP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">14</component-id>
+  <created-on type="datetime">2012-03-19T16:18:00-03:00</created-on>
+  <description>Most of the time, it's not necessary to wait for the filter to be loaded in order to fetch data for the reviews, make the post list load as soon as possible independent of the filter ui state.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17239103</id>
+  <importance type="integer">4</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bQ1FOOtP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1261</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bQ1FOOtP0r4yTEacwqjQWU</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>4</status>
+  <status-name>Test</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Make posts load in parallel to filter when possible</summary>
+  <updated-at type="datetime">2012-03-21T22:27:02-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Large</estimate>
+  <total-estimate type="float">9.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQ1FOOtP0r4yTEacwqjQWU</id><login>lucas.s</login><login_name warning="deprecated">lucas.s</login_name><name>Lucas Sallovitz</name></assigned-to>
+  <reporter><id>bQ1FOOtP0r4yTEacwqjQWU</id><login>lucas.s</login><login_name warning="deprecated">lucas.s</login_name><name>Lucas Sallovitz</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">feature</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">feature</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQ1FOOtP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">14</component-id>
+  <created-on type="datetime">2012-03-19T16:19:57-03:00</created-on>
+  <description>There needs to be different templates for each kind of post. Make this source independent if possible.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17239213</id>
+  <importance type="integer">20</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bQ1FOOtP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1262</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bQ1FOOtP0r4yTEacwqjQWU</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>1</status>
+  <status-name>Accepted</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Create post templates for different post types</summary>
+  <updated-at type="datetime">2012-03-21T10:23:09-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Medium</estimate>
+  <total-estimate type="float">3.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQ1FOOtP0r4yTEacwqjQWU</id><login>lucas.s</login><login_name warning="deprecated">lucas.s</login_name><name>Lucas Sallovitz</name></assigned-to>
+  <reporter><id>bQ1FOOtP0r4yTEacwqjQWU</id><login>lucas.s</login><login_name warning="deprecated">lucas.s</login_name><name>Lucas Sallovitz</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">feature</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">feature</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQ1FOOtP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">8</component-id>
+  <created-on type="datetime">2012-03-19T16:24:49-03:00</created-on>
+  <description>Support loading requests by parts, implementing the pending flag, this does not include handling partial loading on each view.
+The idea would be to implement a mechanism similar to the one implemented for the tagcloud, if the server returns the pending flag, the collection needs to retry the request and replace (or add) new results, to the corresponding collection.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17239603</id>
+  <importance type="integer">19</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bQ1FOOtP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1263</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bQ1FOOtP0r4yTEacwqjQWU</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>1</status>
+  <status-name>Accepted</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Implement pending flag loading on the base collection class</summary>
+  <updated-at type="datetime">2012-03-19T18:19:34-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Large</estimate>
+  <total-estimate type="float">9.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQ1FOOtP0r4yTEacwqjQWU</id><login>lucas.s</login><login_name warning="deprecated">lucas.s</login_name><name>Lucas Sallovitz</name></assigned-to>
+  <reporter><id>bQ1FOOtP0r4yTEacwqjQWU</id><login>lucas.s</login><login_name warning="deprecated">lucas.s</login_name><name>Lucas Sallovitz</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">feature</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">feature</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bFBLQO7Pyr37dVeJe5cbLA</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-19T16:38:04-03:00</created-on>
+  <description>This alert should be issued if the user provided credentials for Facebook or Twitter and there are listings where these credentials are not the owner of the twitter or facebook page listing.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17240713</id>
+  <importance type="integer">10</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bFBLQO7Pyr37dVeJe5cbLA</notification-list>
+  <number type="integer">1264</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>0</status>
+  <status-name>New</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Create listing not owned alert</summary>
+  <updated-at type="datetime">2012-03-19T16:38:04-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bFBLQO7Pyr37dVeJe5cbLA</id><login>glenn.shapland</login><login_name warning="deprecated">glenn.shapland</login_name><name>Glenn Shapland</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">bug</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">bug</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQ9Cw6tP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-20T10:58:39-03:00</created-on>
+  <description></description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17302453</id>
+  <importance type="integer">13</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bQLtA0tP0r4yTEacwqjQWU,bQ9Cw6tP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1267</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bQLtA0tP0r4yTEacwqjQWU</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>1</status>
+  <status-name>Accepted</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Use facebook Insight API for analysis</summary>
+  <updated-at type="datetime">2012-03-21T22:41:29-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Large</estimate>
+  <total-estimate type="float">9.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQ9Cw6tP0r4yTEacwqjQWU</id><login>kyheo</login><login_name warning="deprecated">kyheo</login_name><name>Martin Marrese</name></assigned-to>
+  <reporter><id>bQLtA0tP0r4yTEacwqjQWU</id><login>dlitvakb</login><login_name warning="deprecated">dlitvakb</login_name><name>David Litvak Bruno</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">task</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">task</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQ9Cw6tP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-20T10:59:20-03:00</created-on>
+  <description></description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17302543</id>
+  <importance type="integer">8</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bQLtA0tP0r4yTEacwqjQWU,bQ9Cw6tP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1268</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bQLtA0tP0r4yTEacwqjQWU</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>0</status>
+  <status-name>New</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Fetch analysis data for Twitter</summary>
+  <updated-at type="datetime">2012-03-21T22:41:29-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Large</estimate>
+  <total-estimate type="float">9.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQ9Cw6tP0r4yTEacwqjQWU</id><login>kyheo</login><login_name warning="deprecated">kyheo</login_name><name>Martin Marrese</name></assigned-to>
+  <reporter><id>bQLtA0tP0r4yTEacwqjQWU</id><login>dlitvakb</login><login_name warning="deprecated">dlitvakb</login_name><name>David Litvak Bruno</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">task</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">task</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQ9Cw6tP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-20T10:59:58-03:00</created-on>
+  <description></description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17302583</id>
+  <importance type="integer">7</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bQLtA0tP0r4yTEacwqjQWU,bQ9Cw6tP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1269</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bQLtA0tP0r4yTEacwqjQWU</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>0</status>
+  <status-name>New</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Fetch analysis data for Foursquare</summary>
+  <updated-at type="datetime">2012-03-21T22:41:29-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Large</estimate>
+  <total-estimate type="float">9.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQ9Cw6tP0r4yTEacwqjQWU</id><login>kyheo</login><login_name warning="deprecated">kyheo</login_name><name>Martin Marrese</name></assigned-to>
+  <reporter><id>bQLtA0tP0r4yTEacwqjQWU</id><login>dlitvakb</login><login_name warning="deprecated">dlitvakb</login_name><name>David Litvak Bruno</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">task</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">task</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQ9Cw6tP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-20T13:51:53-03:00</created-on>
+  <description>When returning an error from the API return HTTP status as 404.  Also return debug=True as part of the error data if the DEBUG flag is set to True in local_settings.py</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17318993</id>
+  <importance type="integer">3</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bQCdTMtP0r4yTEacwqjQWU,bQ9Cw6tP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1270</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>1</status>
+  <status-name>Accepted</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>API HTTP error status and debug flag</summary>
+  <updated-at type="datetime">2012-03-22T11:07:20-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Medium</estimate>
+  <total-estimate type="float">3.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQ9Cw6tP0r4yTEacwqjQWU</id><login>kyheo</login><login_name warning="deprecated">kyheo</login_name><name>Martin Marrese</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">task</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">task</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bFBLQO7Pyr37dVeJe5cbLA</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">3</component-id>
+  <created-on type="datetime">2012-03-20T14:34:25-03:00</created-on>
+  <description></description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17322053</id>
+  <importance type="integer">16</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bQLtA0tP0r4yTEacwqjQWU,bFBLQO7Pyr37dVeJe5cbLA</notification-list>
+  <number type="integer">1271</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bQLtA0tP0r4yTEacwqjQWU</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>1</status>
+  <status-name>Accepted</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Create Launchers for Post Collection Framework</summary>
+  <updated-at type="datetime">2012-03-21T15:00:52-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bFBLQO7Pyr37dVeJe5cbLA</id><login>glenn.shapland</login><login_name warning="deprecated">glenn.shapland</login_name><name>Glenn Shapland</name></assigned-to>
+  <reporter><id>bQLtA0tP0r4yTEacwqjQWU</id><login>dlitvakb</login><login_name warning="deprecated">dlitvakb</login_name><name>David Litvak Bruno</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">task</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">task</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bFBLQO7Pyr37dVeJe5cbLA</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">3</component-id>
+  <created-on type="datetime">2012-03-20T14:34:59-03:00</created-on>
+  <description></description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17322083</id>
+  <importance type="integer">14</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bQLtA0tP0r4yTEacwqjQWU,bFBLQO7Pyr37dVeJe5cbLA</notification-list>
+  <number type="integer">1272</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bQLtA0tP0r4yTEacwqjQWU</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>1</status>
+  <status-name>Accepted</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Create Collectors for Post Collection Framework</summary>
+  <updated-at type="datetime">2012-03-21T15:00:52-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Large</estimate>
+  <total-estimate type="float">9.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bFBLQO7Pyr37dVeJe5cbLA</id><login>glenn.shapland</login><login_name warning="deprecated">glenn.shapland</login_name><name>Glenn Shapland</name></assigned-to>
+  <reporter><id>bQLtA0tP0r4yTEacwqjQWU</id><login>dlitvakb</login><login_name warning="deprecated">dlitvakb</login_name><name>David Litvak Bruno</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">task</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">task</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bFBLQO7Pyr37dVeJe5cbLA</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">3</component-id>
+  <created-on type="datetime">2012-03-20T14:36:01-03:00</created-on>
+  <description></description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17322123</id>
+  <importance type="integer">12</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bQLtA0tP0r4yTEacwqjQWU,bFBLQO7Pyr37dVeJe5cbLA</notification-list>
+  <number type="integer">1273</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bQLtA0tP0r4yTEacwqjQWU</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>1</status>
+  <status-name>Accepted</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Create Aggregators for Post Collection Framework</summary>
+  <updated-at type="datetime">2012-03-21T15:00:52-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Large</estimate>
+  <total-estimate type="float">9.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bFBLQO7Pyr37dVeJe5cbLA</id><login>glenn.shapland</login><login_name warning="deprecated">glenn.shapland</login_name><name>Glenn Shapland</name></assigned-to>
+  <reporter><id>bQLtA0tP0r4yTEacwqjQWU</id><login>dlitvakb</login><login_name warning="deprecated">dlitvakb</login_name><name>David Litvak Bruno</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">task</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">task</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQ1FOOtP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">16</component-id>
+  <created-on type="datetime">2012-03-20T18:28:32-03:00</created-on>
+  <description>We should be using the stars for star based units in the graph, the likes for facebook, and so on.... basically this should be driven by units</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17349463</id>
+  <importance type="integer">0</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bQCdTMtP0r4yTEacwqjQWU,bQ1FOOtP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1274</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>4</status>
+  <status-name>Test</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Need to show correct units on Y axis on competitive graphs</summary>
+  <updated-at type="datetime">2012-03-21T18:01:25-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQ1FOOtP0r4yTEacwqjQWU</id><login>lucas.s</login><login_name warning="deprecated">lucas.s</login_name><name>Lucas Sallovitz</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">bug</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">bug</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQ9Cw6tP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">17</component-id>
+  <created-on type="datetime">2012-03-20T19:07:39-03:00</created-on>
+  <description>For some reason we display all the alerts for a listing under the listing except for missing credentials for Facebook and Twitter
+
+Example: coupa zipcode 94301 select Coupa Casa on Ramona Street</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17351403</id>
+  <importance type="integer">1</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bQCdTMtP0r4yTEacwqjQWU,bQ9Cw6tP0r4yTEacwqjQWU,bQ1FOOtP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1276</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>1</status>
+  <status-name>Accepted</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Missing credentials not displayed under listings in my listings page</summary>
+  <updated-at type="datetime">2012-03-22T11:17:38-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Medium</estimate>
+  <total-estimate type="float">3.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQ9Cw6tP0r4yTEacwqjQWU</id><login>kyheo</login><login_name warning="deprecated">kyheo</login_name><name>Martin Marrese</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">bug</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">bug</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQLtA0tP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-20T19:24:52-03:00</created-on>
+  <description>Create the sources/types API call to return sources in display order
+
+Add display_order attribute to alerts, instances, competitive_matrix
+
+</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17352173</id>
+  <importance type="integer">10</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bQCdTMtP0r4yTEacwqjQWU,bQLtA0tP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1277</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>1</status>
+  <status-name>Accepted</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Implement display order on the API</summary>
+  <updated-at type="datetime">2012-03-22T10:51:21-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">2.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQLtA0tP0r4yTEacwqjQWU</id><login>dlitvakb</login><login_name warning="deprecated">dlitvakb</login_name><name>David Litvak Bruno</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">task</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">task</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>dt01ucJFSr362ReJe5cbLA</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">2</component-id>
+  <created-on type="datetime">2012-03-20T20:54:14-03:00</created-on>
+  <description>Create selenium scripts to exercise UI capabilities.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17354833</id>
+  <importance type="integer">5</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,dt01ucJFSr362ReJe5cbLA</notification-list>
+  <number type="integer">1279</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>0</status>
+  <status-name>New</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Create UI automation test for SMB</summary>
+  <updated-at type="datetime">2012-03-20T20:54:14-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Large</estimate>
+  <total-estimate type="float">9.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>dt01ucJFSr362ReJe5cbLA</id><login>yossir</login><login_name warning="deprecated">yossir</login_name><name>yossir</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">task</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">task</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQLtA0tP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">3</component-id>
+  <created-on type="datetime">2012-03-21T12:04:50-03:00</created-on>
+  <description>For twitter we need to create also the backend. Here are the docs from twitter:
+
+https://dev.twitter.com/docs/auth/implementing-sign-twitter
+https://dev.twitter.com/docs/auth/3-legged-authorization (special case of the previous one, but this is the one we need)
+
+Rigth now is mocked in &lt;code&gt;/portal/oauth/&lt;/code&gt;</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17395173</id>
+  <importance type="integer">11</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bs6knIGGGr3yiWab7jnrAJ,bQLtA0tP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1281</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bs6knIGGGr3yiWab7jnrAJ</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>1</status>
+  <status-name>Accepted</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Implement backend for twitter connect</summary>
+  <updated-at type="datetime">2012-03-21T18:24:03-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQLtA0tP0r4yTEacwqjQWU</id><login>dlitvakb</login><login_name warning="deprecated">dlitvakb</login_name><name>David Litvak Bruno</name></assigned-to>
+  <reporter><id>bs6knIGGGr3yiWab7jnrAJ</id><login>hernan.colmeiro</login><login_name warning="deprecated">hernan.colmeiro</login_name><name>Hernan Rodr&#237;guez Colmeiro</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">bug</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">bug</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bs6knIGGGr3yiWab7jnrAJ</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">16</component-id>
+  <created-on type="datetime">2012-03-21T18:07:01-03:00</created-on>
+  <description>If I change the active location, the combo to select the source keeps the same content, only refreshing the page updates it.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17424453</id>
+  <importance type="integer">18</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bQ1FOOtP0r4yTEacwqjQWU,bs6knIGGGr3yiWab7jnrAJ</notification-list>
+  <number type="integer">1282</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bQ1FOOtP0r4yTEacwqjQWU</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>1</status>
+  <status-name>Accepted</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Historic trend source list doesn't update with location change</summary>
+  <updated-at type="datetime">2012-03-22T10:52:39-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bs6knIGGGr3yiWab7jnrAJ</id><login>hernan.colmeiro</login><login_name warning="deprecated">hernan.colmeiro</login_name><name>Hernan Rodr&#237;guez Colmeiro</name></assigned-to>
+  <reporter><id>bQ1FOOtP0r4yTEacwqjQWU</id><login>lucas.s</login><login_name warning="deprecated">lucas.s</login_name><name>Lucas Sallovitz</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">bug</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">bug</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bohdY6vfmr4yzXacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-21T20:35:36-03:00</created-on>
+  <description>We are not finding certain businesses across different sources.  Here are some examples:
+
+Perfect Balance
+42656 Albrae St, Fremont, CA 94538
+(510) 828-6777
+Search for name and zip but don't find it on Facebook even though its there
+
+Can;t find Chos Mandarin Dim Sum in Palo Alto on yelp or any other source.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17431643</id>
+  <importance type="integer">3</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bohdY6vfmr4yzXacwqjQWU</notification-list>
+  <number type="integer">1283</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>0</status>
+  <status-name>New</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Not finding certain businesses</summary>
+  <updated-at type="datetime">2012-03-21T20:35:36-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bohdY6vfmr4yzXacwqjQWU</id><login>gchari@trustedid.com</login><login_name warning="deprecated">gchari@trustedid.com</login_name><name>Ganga Muppidi</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">bug</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">bug</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQ9Cw6tP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-21T22:21:23-03:00</created-on>
+  <description>There are three API calls
+
+Turning off help for individual actions
+account/aid/precondition/post/action_id
+account/aid/precondition/alert/action_id
+
+Resetting all the choice to default
+account/aid/preconditions_reset
+</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17437573</id>
+  <importance type="integer">2</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bQCdTMtP0r4yTEacwqjQWU,bQ9Cw6tP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1285</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>1</status>
+  <status-name>Accepted</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Implement help management API (allowing user to turn off preconditions on actions)</summary>
+  <updated-at type="datetime">2012-03-22T11:13:47-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Medium</estimate>
+  <total-estimate type="float">4.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQ9Cw6tP0r4yTEacwqjQWU</id><login>kyheo</login><login_name warning="deprecated">kyheo</login_name><name>Martin Marrese</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">task</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">task</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bFBLQO7Pyr37dVeJe5cbLA</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-21T22:55:56-03:00</created-on>
+  <description>This ticket contains unresolved preconditions and dependencies issues that I am finding as I go through the SMB source specs.
+
+1) don't know how to detect 'Not owner of listing' for twitter.
+
+2) need to figure out how to delete tweet on twitter.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17437993</id>
+  <importance type="integer">1</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bFBLQO7Pyr37dVeJe5cbLA</notification-list>
+  <number type="integer">1287</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bFBLQO7Pyr37dVeJe5cbLA</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>0</status>
+  <status-name>New</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Unresolved preconditions/dependencies issues</summary>
+  <updated-at type="datetime">2012-03-21T22:55:56-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bFBLQO7Pyr37dVeJe5cbLA</id><login>glenn.shapland</login><login_name warning="deprecated">glenn.shapland</login_name><name>Glenn Shapland</name></assigned-to>
+  <reporter><id>bFBLQO7Pyr37dVeJe5cbLA</id><login>glenn.shapland</login><login_name warning="deprecated">glenn.shapland</login_name><name>Glenn Shapland</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">bug</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">bug</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQ1FOOtP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">8</component-id>
+  <created-on type="datetime">2012-03-22T10:24:05-03:00</created-on>
+  <description>Allow for the backend to send only alert IDs instead of the whole alert for dependencies.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17464813</id>
+  <importance type="integer">7</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bQ1FOOtP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1288</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bQ1FOOtP0r4yTEacwqjQWU</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>1</status>
+  <status-name>Accepted</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Fetch alert dependencies as needed</summary>
+  <updated-at type="datetime">2012-03-22T11:00:11-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Large</estimate>
+  <total-estimate type="float">9.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQ1FOOtP0r4yTEacwqjQWU</id><login>lucas.s</login><login_name warning="deprecated">lucas.s</login_name><name>Lucas Sallovitz</name></assigned-to>
+  <reporter><id>bQ1FOOtP0r4yTEacwqjQWU</id><login>lucas.s</login><login_name warning="deprecated">lucas.s</login_name><name>Lucas Sallovitz</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">feature</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">feature</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQ1FOOtP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-22T10:31:41-03:00</created-on>
+  <description>Make the UI honor the option to ignore certaing instructions and warnings.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17465353</id>
+  <importance type="integer">9</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bQ1FOOtP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1289</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bQ1FOOtP0r4yTEacwqjQWU</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>1</status>
+  <status-name>Accepted</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>&quot;Don't show this&quot; help management</summary>
+  <updated-at type="datetime">2012-03-22T11:13:47-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQ1FOOtP0r4yTEacwqjQWU</id><login>lucas.s</login><login_name warning="deprecated">lucas.s</login_name><name>Lucas Sallovitz</name></assigned-to>
+  <reporter><id>bQ1FOOtP0r4yTEacwqjQWU</id><login>lucas.s</login><login_name warning="deprecated">lucas.s</login_name><name>Lucas Sallovitz</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">feature</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">feature</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bFBLQO7Pyr37dVeJe5cbLA</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-22T11:01:04-03:00</created-on>
+  <description>See attached screenshot for coupa on 94301
+</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17467533</id>
+  <importance type="integer">0</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bQ1FOOtP0r4yTEacwqjQWU,bFBLQO7Pyr37dVeJe5cbLA</notification-list>
+  <number type="integer">1290</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bQ1FOOtP0r4yTEacwqjQWU</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>0</status>
+  <status-name>New</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Strange duplicate listing alert</summary>
+  <updated-at type="datetime">2012-03-22T11:01:05-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bFBLQO7Pyr37dVeJe5cbLA</id><login>glenn.shapland</login><login_name warning="deprecated">glenn.shapland</login_name><name>Glenn Shapland</name></assigned-to>
+  <reporter><id>bQ1FOOtP0r4yTEacwqjQWU</id><login>lucas.s</login><login_name warning="deprecated">lucas.s</login_name><name>Lucas Sallovitz</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">bug</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">bug</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>diUBJYJFKr36UKeJe5cbCb</assigned-to-id>
+  <completed-date type="datetime"></completed-date>
+  <component-id type="integer">14</component-id>
+  <created-on type="datetime">2012-03-21T22:34:37-03:00</created-on>
+  <description>Looking at the post filter, we have:
+
+Source filter: you know the current value looking at the combo, you reset it selecting all sources.
+Flagged: you don't know if it's active, you reset it by clicking All. Porposed: mark active filter with bg color.
+Rating: you sometimes know the current value by the bg color on the stars, but can't distinguish between Rated, Unrated or &quot;All&quot;. Proposed: move Unrated to the top, leaving something like Rated(n) | Urated(n) | All. Mark similar to flagged filter.
+Tagcloud: you know the current value looking for the word on top of the image or highlighted word in the post, you reset it by clicking clear.
+
+So at least flagged and rating filters require some review.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17437683</id>
+  <importance type="integer">0</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bQ1FOOtP0r4yTEacwqjQWU,diUBJYJFKr36UKeJe5cbCb</notification-list>
+  <number type="integer">1286</number>
+  <priority type="integer">4</priority>
+  <reporter-id>bQ1FOOtP0r4yTEacwqjQWU</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>0</status>
+  <status-name>New</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Small improvements to post filtering</summary>
+  <updated-at type="datetime">2012-03-21T22:34:37-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></assigned-to>
+  <reporter><id>bQ1FOOtP0r4yTEacwqjQWU</id><login>lucas.s</login><login_name warning="deprecated">lucas.s</login_name><name>Lucas Sallovitz</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">bug</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">bug</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bFBLQO7Pyr37dVeJe5cbLA</assigned-to-id>
+  <completed-date type="datetime">2012-03-16T20:46:52-03:00</completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-01T19:04:50-03:00</created-on>
+  <description>Can you be a little more specific  about what looks wrong.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">16045003</id>
+  <importance type="integer">11</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bFBLQO7Pyr37dVeJe5cbLA</notification-list>
+  <number type="integer">1177</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>2</status>
+  <status-name>Invalid</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>analysis/activity looks like its returning wrong data</summary>
+  <updated-at type="datetime">2012-03-16T20:46:52-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">None</estimate>
+  <total-estimate type="float">0.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bFBLQO7Pyr37dVeJe5cbLA</id><login>glenn.shapland</login><login_name warning="deprecated">glenn.shapland</login_name><name>Glenn Shapland</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQ1FOOtP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime">2012-03-16T20:54:29-03:00</completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-14T17:24:38-03:00</created-on>
+  <description>After the first request to /tagcloud, the image get's cached for the business and changing the source parameter does not invalidate it.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">16900353</id>
+  <importance type="integer">0</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bQ1FOOtP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1235</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bQ1FOOtP0r4yTEacwqjQWU</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>3</status>
+  <status-name>Fixed</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Tagcloud api cache does not include source parameter</summary>
+  <updated-at type="datetime">2012-03-16T20:54:29-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQ1FOOtP0r4yTEacwqjQWU</id><login>lucas.s</login><login_name warning="deprecated">lucas.s</login_name><name>Lucas Sallovitz</name></assigned-to>
+  <reporter><id>bQ1FOOtP0r4yTEacwqjQWU</id><login>lucas.s</login><login_name warning="deprecated">lucas.s</login_name><name>Lucas Sallovitz</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">task</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">task</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bohdY6vfmr4yzXacwqjQWU</assigned-to-id>
+  <completed-date type="datetime">2012-03-19T07:04:12-03:00</completed-date>
+  <component-id type="integer"></component-id>
+  <created-on type="datetime">2012-03-09T19:25:29-03:00</created-on>
+  <description>We have to populate the data on SMB side before the user finishes registration. We need some data to show the use when he lands on SMB portal after registration. Assume we gather required information from initial steps of registration.  </description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">16580963</id>
+  <importance type="integer">9</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bohdY6vfmr4yzXacwqjQWU,bFBLQO7Pyr37dVeJe5cbLA,b4tjGEeIer4A4racwqjQWU</notification-list>
+  <number type="integer">1208</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bohdY6vfmr4yzXacwqjQWU</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>2</status>
+  <status-name>Invalid</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Pre-Populating the data on SMB side while the user is registering</summary>
+  <updated-at type="datetime">2012-03-19T07:04:12-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">None</estimate>
+  <total-estimate type="float">0.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bohdY6vfmr4yzXacwqjQWU</id><login>gchari@trustedid.com</login><login_name warning="deprecated">gchari@trustedid.com</login_name><name>Ganga Muppidi</name></assigned-to>
+  <reporter><id>bohdY6vfmr4yzXacwqjQWU</id><login>gchari@trustedid.com</login><login_name warning="deprecated">gchari@trustedid.com</login_name><name>Ganga Muppidi</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">feature</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">feature</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQCdTMtP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime">2012-03-19T16:50:13-03:00</completed-date>
+  <component-id type="integer">14</component-id>
+  <created-on type="datetime">2012-03-19T16:39:34-03:00</created-on>
+  <description>In case of Facebook we need to indicate not only the fact that the post is on Facebook but which Facebook page.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17240883</id>
+  <importance type="integer">0</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bQCdTMtP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1265</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>2</status>
+  <status-name>Invalid</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Need to handle to indicate the fan page the post is on for Facebook data</summary>
+  <updated-at type="datetime">2012-03-19T16:50:13-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQCdTMtP0r4yTEacwqjQWU</id><login>mauricio@deviget.com</login><login_name warning="deprecated">mauricio@deviget.com</login_name><name>Mauricio Miranda</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">feature</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">feature</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bFBLQO7Pyr37dVeJe5cbLA</assigned-to-id>
+  <completed-date type="datetime">2012-03-19T16:50:39-03:00</completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-19T16:44:16-03:00</created-on>
+  <description>Need to return the instance_avatar_url and instance_name for posts so we can handle multiple instances from the same sources.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17241303</id>
+  <importance type="integer">0</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bFBLQO7Pyr37dVeJe5cbLA</notification-list>
+  <number type="integer">1266</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>2</status>
+  <status-name>Invalid</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Return instance_avatar_url and instance_name for posts</summary>
+  <updated-at type="datetime">2012-03-19T16:50:39-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bFBLQO7Pyr37dVeJe5cbLA</id><login>glenn.shapland</login><login_name warning="deprecated">glenn.shapland</login_name><name>Glenn Shapland</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">feature</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">feature</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bFBLQO7Pyr37dVeJe5cbLA</assigned-to-id>
+  <completed-date type="datetime">2012-03-20T19:13:18-03:00</completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-20T18:59:20-03:00</created-on>
+  <description>This is just a set of bugs on alerts that I'm seeing through out testing
+- No credentials missing alert on Facebook or Twitter.  Test case Coupa Casa on Ramona St
+- We have dependencies on all alerts for actions even missing listings info - same test case as above click on Facebook or Twitter
+- Not sure if this a bug or I'm just not seeing a business but not not claimed alerts from yelp
+</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17351033</id>
+  <importance type="integer">0</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bFBLQO7Pyr37dVeJe5cbLA</notification-list>
+  <number type="integer">1275</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>2</status>
+  <status-name>Invalid</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Various alert bugs</summary>
+  <updated-at type="datetime">2012-03-20T19:13:19-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bFBLQO7Pyr37dVeJe5cbLA</id><login>glenn.shapland</login><login_name warning="deprecated">glenn.shapland</login_name><name>Glenn Shapland</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">bug</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">bug</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bs6knIGGGr3yiWab7jnrAJ</assigned-to-id>
+  <completed-date type="datetime">2012-03-21T16:40:45-03:00</completed-date>
+  <component-id type="integer">16</component-id>
+  <created-on type="datetime">2012-03-16T17:54:40-03:00</created-on>
+  <description></description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17056503</id>
+  <importance type="integer">2</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bQCdTMtP0r4yTEacwqjQWU,bs6knIGGGr3yiWab7jnrAJ</notification-list>
+  <number type="integer">1254</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>3</status>
+  <status-name>Fixed</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Need to use source images (same class as everywhere else) for my competitors</summary>
+  <updated-at type="datetime">2012-03-21T16:40:45-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Medium</estimate>
+  <total-estimate type="float">3.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bs6knIGGGr3yiWab7jnrAJ</id><login>hernan.colmeiro</login><login_name warning="deprecated">hernan.colmeiro</login_name><name>Hernan Rodr&#237;guez Colmeiro</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">bug</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">bug</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bFBLQO7Pyr37dVeJe5cbLA</assigned-to-id>
+  <completed-date type="datetime">2012-03-21T11:31:38-03:00</completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-20T20:06:13-03:00</created-on>
+  <description>When I don't pass a source parameter, I keep getting pending: true.
+Just creating this ticket to avoid forgetting, may need more testing
+ tried with [[url:http://local.staging.reppler.com:8000/account/1/business/b150a23b97fc4cde5344f028cc728567/analysis/tagcloud/?source=&amp;width=205&amp;height=205|http://local.staging.reppler.com:8000/account/1/business/b150a23b97fc4cde5344f028cc728567/analysis/tagcloud/?source=&amp;width=205&amp;height=205]]</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17353633</id>
+  <importance type="integer">0</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bQ1FOOtP0r4yTEacwqjQWU,bFBLQO7Pyr37dVeJe5cbLA</notification-list>
+  <number type="integer">1278</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bQ1FOOtP0r4yTEacwqjQWU</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>2</status>
+  <status-name>Invalid</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>TagCloud fails without source parameter</summary>
+  <updated-at type="datetime">2012-03-21T11:31:38-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bFBLQO7Pyr37dVeJe5cbLA</id><login>glenn.shapland</login><login_name warning="deprecated">glenn.shapland</login_name><name>Glenn Shapland</name></assigned-to>
+  <reporter><id>bQ1FOOtP0r4yTEacwqjQWU</id><login>lucas.s</login><login_name warning="deprecated">lucas.s</login_name><name>Lucas Sallovitz</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">bug</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">bug</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bFBLQO7Pyr37dVeJe5cbLA</assigned-to-id>
+  <completed-date type="datetime">2012-03-21T12:56:40-03:00</completed-date>
+  <component-id type="integer"></component-id>
+  <created-on type="datetime">2012-03-21T12:03:02-03:00</created-on>
+  <description>I see no alert in &lt;code&gt;/account/&lt;AID&gt;/location/&lt;BID&gt;/competitivematrix/&lt;/code&gt; regarding missing twitter alerts. This affects #1258</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17395033</id>
+  <importance type="integer">0</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bs6knIGGGr3yiWab7jnrAJ,bFBLQO7Pyr37dVeJe5cbLA</notification-list>
+  <number type="integer">1280</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bs6knIGGGr3yiWab7jnrAJ</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>2</status>
+  <status-name>Invalid</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Missing twitter credentials do not create missing_credentials alert</summary>
+  <updated-at type="datetime">2012-03-21T12:56:47-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bFBLQO7Pyr37dVeJe5cbLA</id><login>glenn.shapland</login><login_name warning="deprecated">glenn.shapland</login_name><name>Glenn Shapland</name></assigned-to>
+  <reporter><id>bs6knIGGGr3yiWab7jnrAJ</id><login>hernan.colmeiro</login><login_name warning="deprecated">hernan.colmeiro</login_name><name>Hernan Rodr&#237;guez Colmeiro</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">bug</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">bug</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bQ1FOOtP0r4yTEacwqjQWU</assigned-to-id>
+  <completed-date type="datetime">2012-03-21T22:27:02-03:00</completed-date>
+  <component-id type="integer">14</component-id>
+  <created-on type="datetime">2012-03-12T22:29:42-03:00</created-on>
+  <description>When updating my reviews pages either after flushing the cache or when there is a new location you get please wait indicator on the reviews part but not the filter and tagcloud or sometimes in reverse.  I think this is true for other pages but didn't go through and reproduce</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">16708753</id>
+  <importance type="integer">19</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bQCdTMtP0r4yTEacwqjQWU,bQ1FOOtP0r4yTEacwqjQWU</notification-list>
+  <number type="integer">1224</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>2</status>
+  <status-name>Invalid</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Inconsistent &quot;please wait&quot; indicator on my reviews</summary>
+  <updated-at type="datetime">2012-03-21T22:27:02-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">None</estimate>
+  <total-estimate type="float">0.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bQ1FOOtP0r4yTEacwqjQWU</id><login>lucas.s</login><login_name warning="deprecated">lucas.s</login_name><name>Lucas Sallovitz</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">task</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">task</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>bs6knIGGGr3yiWab7jnrAJ</assigned-to-id>
+  <completed-date type="datetime">2012-03-22T12:43:47-03:00</completed-date>
+  <component-id type="integer">17</component-id>
+  <created-on type="datetime">2012-03-16T13:25:55-03:00</created-on>
+  <description>Currently we just show a failed image when a particular instance has no avatar_url.  Since some instances will not we should not display an avatar url in those cases or display some default icon.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17036493</id>
+  <importance type="integer">1</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>diUBJYJFKr36UKeJe5cbCb,bQCdTMtP0r4yTEacwqjQWU,bs6knIGGGr3yiWab7jnrAJ</notification-list>
+  <number type="integer">1245</number>
+  <priority type="integer">3</priority>
+  <reporter-id>diUBJYJFKr36UKeJe5cbCb</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>3</status>
+  <status-name>Fixed</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>Need to handle case where instance has no avatar</summary>
+  <updated-at type="datetime">2012-03-22T12:43:47-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">Small</estimate>
+  <total-estimate type="float">1.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>bs6knIGGGr3yiWab7jnrAJ</id><login>hernan.colmeiro</login><login_name warning="deprecated">hernan.colmeiro</login_name><name>Hernan Rodr&#237;guez Colmeiro</name></assigned-to>
+  <reporter><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">task</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">task</CustomField>
+</CustomFields>
+</ticket>
+<ticket>
+  <assigned-to-id>diUBJYJFKr36UKeJe5cbCb</assigned-to-id>
+  <completed-date type="datetime">2012-03-22T10:38:49-03:00</completed-date>
+  <component-id type="integer">13</component-id>
+  <created-on type="datetime">2012-03-21T21:51:24-03:00</created-on>
+  <description>The original action spec allowed for the user to mark an action precondition as &quot;don't show this&quot;, we have the flag on the action and the ui is commented out, but there's nothing to post the preference to.
+I don't know if this is being included in the account settings ticket.</description>
+  <from-support type="integer">1</from-support>
+  <id type="integer">17436593</id>
+  <importance type="integer">5</importance>
+  <is-story type="boolean">false</is-story>
+  <milestone-id type="integer">1068393</milestone-id>
+  <notification-list>bQ1FOOtP0r4yTEacwqjQWU,diUBJYJFKr36UKeJe5cbCb</notification-list>
+  <number type="integer">1284</number>
+  <priority type="integer">3</priority>
+  <reporter-id>bQ1FOOtP0r4yTEacwqjQWU</reporter-id>
+  <space-id>a5uBBmJFSr36ozeJe5cbLA</space-id>
+  <status type='integer'>2</status>
+  <status-name>Invalid</status-name>
+  <story-importance type="integer">0</story-importance>
+  <summary>URL for don't show this instructions/warning</summary>
+  <updated-at type="datetime">2012-03-22T11:13:47-03:00</updated-at>
+  <working-hours type="float">0.0</working-hours>
+  <working-hour type="float" warning="deprecated">0.0</working-hour>
+  <estimate type="string">None</estimate>
+  <total-estimate type="float">2.0</total-estimate>
+  <invested-hours type="float">0.0</invested-hours>
+  <assigned-to><id>diUBJYJFKr36UKeJe5cbCb</id><login>vgorelik</login><login_name warning="deprecated">vgorelik</login_name><name>vgorelik</name></assigned-to>
+  <reporter><id>bQ1FOOtP0r4yTEacwqjQWU</id><login>lucas.s</login><login_name warning="deprecated">lucas.s</login_name><name>Lucas Sallovitz</name></reporter>
+<custom-fields>
+<custom-field type="List" name="tasktype" id="117093">task</custom-field>
+</custom-fields>
+<CustomFields deprecated="use custom-fields">
+<CustomField type="List" name="tasktype" id="117093">task</CustomField>
+</CustomFields>
+</ticket>
+</tickets>

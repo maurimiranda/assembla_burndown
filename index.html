@@ -1,0 +1,31 @@
+<html>
+<head>
+  <title>Burndown Chart</title>
+  <script src="burndown.js" type="text/javascript" charset="utf-8"></script>
+  <script src="jquery.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="moment.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="highcharts.js" type="text/javascript" charset="utf-8"></script>
+</head>
+<body>
+  <select id="chart_unit" onChange="buildChart()">
+    <option>Tickets</option>
+    <option>Points</option>
+  </select>
+  <div id="chart">
+  </div>
+  <script type="text/javascript" charset="utf-8">
+    var chart;
+    var data;
+    start_date = moment([2012, 2, 19]);
+    end_date = moment([2012, 2, 31]);
+    $(document).ready(function() {
+       //url = "http://localhost/api/spaces/safetobeme/tickets/custom_report/216283";
+       url = "tickets.xml";
+       getAPIData(url, function(result) {
+         data = result;
+         buildChart();
+       });
+     });
+  </script>
+</body>
+</html>

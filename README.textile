@@ -1,0 +1,28 @@
+h1. Assembla Burndown Chart Builder
+
+This is a simple script to build a Burndown Chart from Assembla Tickets.
+
+h2. How to use it
+
+# "Create a Report in Assembla":http://www.assembla.com/wiki/show/breakoutdocs/Creating_Reports_and_Filters
+# Copy the Report ID removing the "u"
+# Then you have to options:
+** Download the report to a local file (eg: tickets.xml) with Curl <pre><code>curl -X GET -H "Accept: application/xml" -o tickets.xml http://USER:PASSWORD@www.assembla.com/spaces/safetobeme/tickets/custom_report/REPORTID</code></pre>
+** Configure a proxy and get the tickets directly through the API 
+# Depending on the last point you need to modify the url in index.html
+** <pre><code>url = "tickets.xml"</code></pre>
+or
+** <pre><code>url = "http://PROXY/spaces/safetobeme/tickets/custom_report/REPORTID"</code></pre>
+# Define start and end date in index.html
+# Voilá!
+
+h2. Simple proxy example using Apache
+
+<pre><code><VirtualHost *:80>
+    ServerName localhost
+    ServerAlias 127.0.0.1
+    ProxyPass /api/ http://www.assembla.com/
+    ProxyPassReverse /api/ http://www.assembla.com/
+  </VirtualHost></code></pre>
+
+Using this, the url will be: <pre><code>http://localhost/api/spaces/safetobeme/tickets/custom_report/REPORTID</code></pre>

@@ -10,7 +10,7 @@ h2. How to use it
 ** Download the report to a local file (eg: tickets.xml) with Curl <pre><code>curl -X GET -H "Accept: application/xml" -o tickets.xml http://USER:PASSWORD@www.assembla.com/spaces/safetobeme/tickets/custom_report/REPORTID</code></pre>
 ** Configure a proxy and get the tickets directly through the API 
 # Depending on the last point you need to modify the url in index.html
-** <pre><code>url = "tickets.xml"</code></pre>or
+** <pre><code>url = "tickets.xml"</code></pre>
 ** <pre><code>url = "http://PROXY/spaces/safetobeme/tickets/custom_report/REPORTID"</code></pre>
 # Define start and end date in index.html
 # Voilá!

@@ -36,6 +36,7 @@ function buildData() {
   real_data = new Array ([current_date.valueOf(), total]);
   estimated_data = new Array();
   real_value = total;
+  estimated_value = total;
   ideal_value = total;
   
   while(current_date <= end_date) {
@@ -46,12 +47,12 @@ function buildData() {
         step = getEstimation($(data).find("completed-date:contains(" + current_date.format("YYYY-MM-DD") + ")").parent());
       real_value -= step;
       real_data.push([current_date.valueOf(), real_value]);
-      estimated_data.push([current_date.valueOf(), null]);
+      estimated_value = real_value;
     } else {
-      step = Math.round((total - real_value) / current_date.diff(start_date, 'days'));
-      real_value -= step;
-      real_data.push([current_date.valueOf(), null]);
-      estimated_data.push([current_date.valueOf(), real_value]);
+      step = (total - real_value) / current_date.diff(start_date, 'days');
+      estimated_value -= step;
+      estimated_data.push([current_date.valueOf(),  Math.round(estimated_value)]);
+      estimated_date = moment().add('days', Math.round(estimated_value / step));
     }
     ideal_data.push([current_date.valueOf(), Math.round(ideal_value)]);
     ideal_value = ideal_value - ideal_step;
@@ -73,7 +74,22 @@ function buildData() {
     data: real_data,
     name: "Real"
   });
-    
+  
+  $("#info").empty();
+  $("#info").append("<p>Start Date: " + start_date.format("YYYY-MM-DD") + "</p>");
+  $("#info").append("<p>End Date:  " + end_date.format("YYYY-MM-DD") + "</p>");
+  $("#info").append("<p>Estimated Due Date: " + estimated_date.format("YYYY-MM-DD") + "</p>");
+  $("#info").append("<p>Total: " + total + "</p>");
+  $("#info").append("<p>Pending: " + real_value + "</p>");
+  if($("#chart_unit").val() == "Tickets") {
+    $("#info").append("<p>New: " + $(data).find("status-name:contains('New')").parent().length + "</p>");
+    $("#info").append("<p>Accepted: " + $(data).find("status-name:contains('Accepted')").parent().length + "</p>");
+    $("#info").append("<p>Test: " + $(data).find("status-name:contains('Test')").parent().length + "</p>");
+  } else {
+    $("#info").append("<p>New: " + getEstimation($(data).find("status-name:contains('New')").parent()) + "</p>");
+    $("#info").append("<p>Accepted: " + getEstimation($(data).find("status-name:contains('Accepted')").parent()) + "</p>");
+    $("#info").append("<p>Test: " + getEstimation($(data).find("status-name:contains('Test')").parent()) + "</p>");
+  }
 }
 
 function getAPIData(url, callback) {

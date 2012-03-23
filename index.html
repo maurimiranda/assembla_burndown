@@ -6,12 +6,16 @@
   <script src="moment.min.js" type="text/javascript" charset="utf-8"></script>
   <script src="highcharts.js" type="text/javascript" charset="utf-8"></script>
 </head>
-<body>
-  <select id="chart_unit" onChange="buildChart()">
-    <option>Tickets</option>
-    <option>Points</option>
-  </select>
+<body style="font-family: sans-serif; font-size: 12px;">
+  <div style="float: right;">
+    <select id="chart_unit" onChange="buildChart()">
+      <option>Points</option>
+      <option>Tickets</option>
+    </select>
+  </div>
   <div id="chart">
+  </div>
+  <div id="info">
   </div>
   <script type="text/javascript" charset="utf-8">
     var chart;

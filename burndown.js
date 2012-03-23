@@ -48,13 +48,13 @@ function buildData() {
       real_value -= step;
       real_data.push([current_date.valueOf(), real_value]);
       estimated_value = real_value;
-    } else {
       step = (total - real_value) / current_date.diff(start_date, 'days');
-      estimated_value -= step;
-      estimated_data.push([current_date.valueOf(),  Math.round(estimated_value)]);
       estimated_date = moment().add('days', Math.round(estimated_value / step));
+    } else {
+      estimated_value -= step;
+      estimated_data.push([current_date.valueOf(), Math.max(0, Math.round(estimated_value))]);
     }
-    ideal_data.push([current_date.valueOf(), Math.round(ideal_value)]);
+    ideal_data.push([current_date.valueOf(), Math.max(0, Math.round(ideal_value))]);
     ideal_value = ideal_value - ideal_step;
     current_date = current_date.add('days', 1);
   }
